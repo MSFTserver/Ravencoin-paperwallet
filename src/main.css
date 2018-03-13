@@ -35,7 +35,7 @@ body { font-family: Arial; background-image: url('images/diamonds.png'); height:
 #rvnaddress, #rvnprivwif, #detailaddress, #detailaddresscomp, #detailprivwif, #detailprivwifcomp { font-family: monospace; font-size: 1.25em; }
 #seedpoolarea { display: none; }
 #seedpooldisplay {  font-family: monospace; font-size: 1em; width: 640px; padding: 15px 5px; word-wrap: break-word; min-height: 98px; }
-.seedpoint { width: 6px; height: 6px; display: block; border-radius: 3px; background-color: #80CF80; position: absolute; z-index: 10; }
+.seedpoint { width: 40px; height: 40px; display: block; border-radius: 3px; background: url("https://i.imgur.com/h1LwH5e.png?1"); position: absolute; z-index: 10; }
 
 #seedSkipper { font-size: 11px; text-align: center; line-height: 14px;}
 #skipMessage { margin-top: 8px; }
